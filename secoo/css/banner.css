@@ -8,7 +8,7 @@
 
 
 
-.fx_banner_inner{position:relative;height:400px;left:120px;}
+.fx_banner_inner{position:relative;height:400px;left:100px;}
 
 .fx_banner_img{width:20000px}
 .fx_banner_img li{float:left;height:400px;width:1903px;position:relative}
@@ -21,8 +21,8 @@
 
 
 
-.fx_banner_pre{left:330px;top:0;background:url(../images/ban_pre_24.png);}
-.fx_banner_next{left:1300px;top:0;background:url(../images/ban_next_24.png);}
+.fx_banner_pre{left:270px;top:0;background:url(../images/ban_pre_24.png);}
+.fx_banner_next{left:1180px;top:0;background:url(../images/ban_next_24.png);}
 
 
 
