@@ -79,3 +79,55 @@
     background:url(../images/apps_bg.gif);
     margin-right: 28px;
 }
+.float-list{
+    width:188px;
+    height:594px;
+    position: absolute;
+    top: 129px;
+    left: 50%;
+    margin-left: -580px;
+    z-index: 91;
+    background:#382f6b;
+}
+.listMain{
+    width:188px;
+    height:34px;
+    text-align: center;
+    line-height: 34px;
+}
+.lista{
+    color: #fff;
+    font-weight: 800;
+}
+.listDiv{
+    width:188px;
+    height:560px;
+}
+.list1,.list3,.list5,.list7,.list9{
+    background:#463b7f;
+}
+.listDiv dl{
+    width:173px;
+    height:52px;
+    padding:10px 0 0 15px;
+}
+.listDiv strong a{
+    color:#fff;
+    font-weight: 800;
+}
+.listDiv p{
+    margin-top:8px;
+}
+.listDiv p a{
+    color:#fff;
+    margin-right:8px;
+}
+/*-------------listRight----------------------*/
+.listRight{
+
+}
+.listra{
+    width:330px;
+    height:148px;
+}
+
